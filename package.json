@@ -1,0 +1,14 @@
+{
+  "name": "@ftw/switch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "index.js",
+  "license": "MIT",
+  "description": "Switch branches, revert/run migrations, yarn install, bundle install, etc.",
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
